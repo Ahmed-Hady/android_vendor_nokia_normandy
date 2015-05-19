@@ -25,6 +25,3 @@ PRODUCT_PACKAGES += \
     libqc-opt
 
 $(call inherit-product, vendor/nokia/normandy/normandy-vendor-blobs.mk)
-
-PRODUCT_PACKAGES += qcmediaplayer
-PRODUCT_PACKAGES += qcom.fmradio
